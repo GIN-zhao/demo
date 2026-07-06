@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 YYYYY
+=======
+HHHHH
+>>>>>>> 748bb7a (update HHHHH)
